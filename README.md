@@ -65,5 +65,8 @@ Amaç, yaprak görüntülerini doğru şekilde sınıflandırarak tarımda erken
 
 ---
 
+## Linkler
+https://www.kaggle.com/code/fakkor/notebook8d111e877f
+
 ## 👤 Yazar
 Bu proje **[Fatih Akkor]** tarafından hazırlanmıştır.  
