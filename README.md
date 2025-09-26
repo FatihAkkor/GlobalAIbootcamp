@@ -50,8 +50,10 @@ Amaç, yaprak görüntülerini doğru şekilde sınıflandırarak tarımda erken
 ### 📈 Grafikleri Temsil Eden Sonuçlar
 - Accuracy eğrisi eğitim ilerledikçe artarak **%91**’e ulaştı.
 - Validation accuracy, ilk başta %56 iken fine-tuning sonrası **%88.3** seviyesine çıktı.  
-- Loss eğrileri düşüş göstererek stabil hale geldi (final val_loss ≈ 0.37).  
-- Confusion Matrix sonuçları sınıflar arasında dengeli bir başarı gösterdi.  
+- Loss eğrileri düşüş göstererek stabil hale geldi (final val_loss ≈ 0.37).
+- ![](training_curves.png)
+- Confusion Matrix sonuçları sınıflar arasında dengeli bir başarı gösterdi.
+- ![](confusion_matrix.png)
 
 ---
 
